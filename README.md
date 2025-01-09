@@ -20,8 +20,10 @@ Con estas mejoras, el sistema estaría preparado para manejar grandes volúmenes
 ## Capturas de Funcionamiento
 
 1. **Vista del Formulario**
+![Screenshot 2025-01-09 144745](https://github.com/user-attachments/assets/d81b5ba7-54ad-4975-9c5e-8a21d712e2c7)
 
 2. **Lista de Formularios Enviados**
+![Screenshot 2025-01-09 144805](https://github.com/user-attachments/assets/8a723760-487a-435d-aea6-08ab4769ecd2)
 
 ## Instrucciones para Ejecutar la Aplicación
 
